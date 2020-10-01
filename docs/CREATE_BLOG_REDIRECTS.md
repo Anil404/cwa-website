@@ -1,13 +1,13 @@
-# Creating Blog Redirects
+# How Creating Blog Redirects
 
 If you plan to replace an old blog post with an updated version and make sure that the old links still work, use the following process
 
-## Create a new blogpost
+## How Create a new blogpost
 
 Just copy the old `index.md` and `index_de.md` files to a new folder with the right date (e.g., today).
 Rewrite the blog post as needed.
 
-## Update the old blog post
+## How Update the old blog post
 
 Your old blog post will still have the following structure at the top of the md files:
 
